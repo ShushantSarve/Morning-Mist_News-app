@@ -1,8 +1,8 @@
 # Morning-Mist News App
 
-News application with real time updated News sorted in different categories.
+   ### News application with real time updated News sorted in different categories. 
 
-#
+<br />
 
 ![Screenshot (21)](https://github.com/ShushantSarve/Morning-Mist_News-app/blob/d1a96b68bb096728d080b5372dd818b8f4d03fd0/src/utils/Screenshot%20(21).png)
 
