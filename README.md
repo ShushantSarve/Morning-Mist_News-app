@@ -21,7 +21,7 @@
 2. Added `Categories` in News for all types of users.
 3. Presented News in `Cards` for `Clean` and better visualization.
 
-## Responsive Application
+## Responsive Application(Mobile view)
 
 ![ss1](https://github.com/ShushantSarve/Morning-Mist_News-app/blob/2424a873142bd166b52980a684bd66831b575c98/src/utils/Screenshot%20(18).png)
 
